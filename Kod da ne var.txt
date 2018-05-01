@@ -1,0 +1,2 @@
+threan kullanýmý butonlarla gösterilmiþ
+bir butonun iþi bitmeden ikinci butonun kullanýmý gösterilmiþ.
